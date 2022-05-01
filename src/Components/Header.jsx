@@ -1,7 +1,7 @@
 function Header() {
     return (
         <>
-            <h1 className="font-black text-5xl text-center">Seguimiento pasientes {""} <br />
+            <h1 className="font-black text-5xl text-center">Seguimiento pacientes {""} <br />
                 <span className="text-indigo-600">Veterinaria</span>
             </h1>
         </>
